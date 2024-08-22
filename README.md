@@ -1,5 +1,4 @@
-*****Java Learning Repository******
-
+*******Java Learning Repository*******
 
 Welcome to my Java learning repository! This is where I will be storing all the Java code that I study and practice. I'm currently learning Java through my college, IILM University, and also following tutorials from Code With Harry.
 
